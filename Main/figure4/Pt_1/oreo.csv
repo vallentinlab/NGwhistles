@@ -1,0 +1,5 @@
+Selection,View,Channel,Begin Time (s),End Time (s),Low Freq (Hz),High Freq (Hz),Delta Time (s),Delta Freq (Hz),Avg Power Density (dB FS/Hz),Annotation,
+1,Spectrogram 1,1,4.688525284,4.688525284,2446.172,2446.172,0,0,-53.04,,2400
+,,,,,,,,,,,
+1,Spectrogram 1,1,4.275491116,4.275491116,2342.812,2342.812,0,0,-65.72,,2400
+2,Spectrogram 1,1,5.00320744,5.00320744,2377.266,2377.266,0,0,-62.27,,2400
